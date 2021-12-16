@@ -2,7 +2,7 @@
   "name": "xcoin-backend",
   "version": "1.0.0",
   "main": "index.ts",
-  "repository": "",
+  "repository": "https://github.com/UncleChenna/xcoins-test.git",
   "author": "uchenna",
   "license": "MIT",
   "scripts": {
